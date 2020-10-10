@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  background-color: gray;
+}
+
+.Avatar img {
+width: 200px;
+height: 200px;
+}
